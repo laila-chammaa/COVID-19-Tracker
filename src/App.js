@@ -10,6 +10,7 @@ class App extends React.Component {
     data: {},
     country: "",
   };
+  
   async componentDidMount() {
     const fetchedData = await fetchData();
     this.setState({ data: fetchedData });

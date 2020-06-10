@@ -59,7 +59,6 @@ const Chart = ({ data: { confirmed, recovered, deaths }, country }) => {
       }}
     />
   ) : null;
-  console.log(confirmed);
 
   return (
     <div className={styles.container}>
