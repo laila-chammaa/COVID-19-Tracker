@@ -4,3 +4,6 @@ Got familiar with React Hooks, CSS modules, extracting data, and data flow.
 
 
 https://laila-covidtracker.netlify.app/
+
+### Future Plans
+Add unit & integration tests
